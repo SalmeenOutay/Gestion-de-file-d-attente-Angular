@@ -90,12 +90,21 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
+              "src/styles.css",
+              "src/styles.css","node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "./src/app/navbar/myf.js","C:/Users/salmeen outay/Desktop/2eme dsi/projet angulaire/projectApp/srcapp/navbar/nav.js",
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6147bf74-37af-4199-9791-b90df155f374"
   }
 }
