@@ -92,11 +92,11 @@
             "styles": [
               "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
               "src/styles.css",
-              "src/styles.css","node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "src/styles.css","node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/font-awesome/css/font-awesome.min.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "./src/app/navbar/myf.js","C:/Users/salmeen outay/Desktop/2eme dsi/projet angulaire/projectApp/srcapp/navbar/nav.js",
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ]
           }
